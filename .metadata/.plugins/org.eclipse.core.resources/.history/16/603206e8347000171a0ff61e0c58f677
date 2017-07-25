@@ -1,0 +1,13 @@
+package com.bit.hello;
+   public class Value03 {
+	public static void main(String[] args) {
+		// 반복적인 일을 처리하는 문장
+		
+		int intNum1 = 0 ;
+		for( ;; ) {
+			System.out.println("대한민국");
+		}
+
+	}
+
+}
